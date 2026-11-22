@@ -1,11 +1,9 @@
 {
-  "name": "minecraft-afk-bot",
-  "version": "2.5.0",
+  "name": "mc-client-worker",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "dependencies": {
-    "mineflayer": "^4.34.0"
-  }
+  "dependencies": {}
 }
